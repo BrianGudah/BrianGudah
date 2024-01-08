@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGb11hSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm BrianGudah</h1>
 <h3 align="center">A passionate software engineer from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD14mpCDIeN87UZ0-Nh0GFRgax1Ij5U8Wj62a5lIHe8w&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLegkbkFmsCnfTWpa0cmJlv43OUP7Z2_wLdQ)">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=briangudah&label=Profile%20views&color=0e75b6&style=flat" alt="briangudah" /> </p>
 

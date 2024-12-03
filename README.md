@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=briangudah&label=Profile%20views&color=0e75b6&style=flat" alt="briangudah" /> </p>
 
-- 🔭 I’m currently working on **Virtual Queuing System**
+- 🔭 I’m currently working on **Django**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Seaborn, Pandas, NumPy, Java, HTML, CSS**
+- 💬 Ask me about **Seaborn, Pandas, NumPy, Java, HTML, CSS, Django**
 
 - 📫 How to reach me **briangudah80@gmail.com**
 
